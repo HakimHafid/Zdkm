@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Zodiak Kim</string>
+    <string name="nama_zodiak">Nama Zodiak</string>
+    <string name="detail_zodiak"> Detail Zodiak</string>
+    <string name="todo">TODO</string>
+    <string name="linetexttt">__________________________</string>
+    <string name="linetextpanjang">___________________________________________________________________</string>
+
+
+    <!--Inicapricorn-->
+    <string name="sifat_capricorn">Orang yang lahir pada tanggal antara 21 Desember sampai 19 Januari
+        berada di bawah pengaruh zodiak Capricorn, yang berlambang kambing. Orang yang berzodiak
+        Capricorn mengutamakan kesuksesan, status, posisi, reputasi, loyalitas, konsentrasi, pemecahan
+        masalah, bertanggung jawab, memperlihatkan kebijaksanaan, dan keseriusan belajar melalui pengalaman.
+        Namun, ada kalanya orang berzodiak Capricorn cenderung bersikap memandang buruk (pesimis), selalu
+        terpaksa, membebani, takut menghadapi hambatan, memperlihatkan batasan, kurang simpati,
+        terlalu khawatir, dan pemikiran sempit.</string>
+    <string name="pasangan_capricorn">Dalam pergaulan, orang yang berkelahiran Capricorn agak posesif (mengekang).
+        Dalam pergaulan yang membuahkan cinta, Capricorn sering mencemburui kekasihnya tanpa alasan yang jelas.
+        Sifat seperti ini menyebabkan perilakunya sulit untuk dimengerti dan terkadang seperti kekanak-kanakan.
+        Untuk mengatasi masalah ini, seseorang yang berkepribadian dewasa, ramah dan penuh pengertian adalah
+        pendamping ideal bagi Capricorn.</string>
+    <string name="karir_capricorn">Capricorn memang bercita – cita mencari kekuasaan dalam karir sehingga
+        Anda harus siap bekerja dengan tekun. Capricorn ditakdirkan menjadi manajer dan administrator yang
+        baik. Diibaratkan berpasangan dengan Leo, kalau Leo sangat baik menjadi raja atau ratu, Capricorn
+        sangat cocok menjadi perdana menteri. Keberhasilan Capricorn dalam usaha mengatasi masalah dan
+        risiko akhirnya membuat Capricorn berhasil mendapatkan manfaat dari segi keuangan.</string>
+    <string name="keluarga_capricorn">Rumah kelahiran Capricorn biasanya rapi dan tersusun. Cara
+        Capricorn mengatur rumah tangga sama dengan cara mengurus karirnya. Capricorn bijak mengelola
+        anak – anak dan serius dengan aturan yang tepat dipatuhi mereka. Pastinya Capricorn bangga menjadi orang tua.</string>
+
+
+
+
+
+    <!--Iniaquarius-->
+    <string name="sifat_aquarius">Orang yang lahir pada tanggal antara 20 Januari sampai 18 Febuari
+        berada di bawah pengaruh zodiak Aquarius, yang berlambang gelombang (alur air). Orang Aquarius
+        tertarik dengan petualangan, berjiwa kemanusiaan, ingin tahu, ada semangat berontak, bersikap
+        spontan, progesif, persahabatan, hak asasi, kelompok, dan mampu memberi manfaat untuk sekitar.
+        Namun, ada kalanya Aquarius menghadapi gangguan, tak bisa diharapkan, suka membantah, memberontak,
+        tak lengkap, perilaku salah, tak konsisten, perangai radikal, kurang metode, dan mendatangkan bencana.</string>
+    <string name="pasangan_aquarius">Teman atau kekasih yang paling cocok bagi Aquarius adalah Aries
+        dan Gemini. Aries merupakan pendamping yang cocok bagi Aquarius. Semangat Aries yang tinggi
+        dalam menambah ilmu merupakan hal menarik perhatian bagi Aquarius. Aries sebaliknya menyenangi
+        sikap Aquarius yang terbuka. Gemini juga memiliki persamaan dengan Aquarius. Kedua – duanya
+        memandang daya intelektual bukan rupa dan tubuh semata – mata. Keinginan Aquarius berburu
+        karir turut disenangi oleh Gemini.</string>
+    <string name="karir_aquarius">Kelahiran Aquarius ini biasanya tekun bekerja dan ingin orang lain
+        sama tekun dalam bekerja sama. Lantaran itu, Aquarius menyukai karir yang mengikat dirinya
+        dengan dasar filosofis, kekreatifan dan berlandaskan metode serta teknik yang tersusun.
+        Aquarius cepat menguasai karir dan berupaya memberikan kontribusi ide bagi peningkatan diri
+        dan organisasi, dan gemar membantu teman sekerja. Walau bagaimana pun, untuk berhasil ke
+        tujuan karir yang tertinggi, Aquarius perlu mengembangkan kepekaan emosi, perasaan mendalam
+        dan kesabaran yang tinggi.</string>
+    <string name="keluarga_aquarius">Dalam keluarga dan rumah tangga, kelahiran Aquarius mudah berubah,
+        yaitu tidak stabil. Namun, Aquarius tetap menginginkan sebuah rumah yang baik untuk memperlakukan
+        keluarga dan teman. Demi keharmonisan rumah tangga dan keluarga, Aquarius harus memasukkan
+        fitur-fitur stabilitas dan kaulitas. Selain mengutamakan daya intelektual, Aquarius sebenarnya
+        harus meresapkan cinta ke dalam rumah dan keluarga.</string>
+
+
+    <!--Inipisces-->
+    <string name="sifat_pisces">Orang yang lahir antara tanggal 19 Febuari sampai 20 Maret dikatakan
+        bernaung di bawah zodiak Pisces, yang berlambang ikan. Pisces mengutamakan cinta universal,
+        bersifat manja, selalu mencari ilham, memperlihatkan kepercayaan, ada kesepahaman, berjiwa puitis,
+        menyukai musik, beragama, bersifat setia, mampu menghibur diri, mengutamakan kerohanian, dan tidak
+        mudah mengaku kalah. Namun, ada kalanya Pisces merasa bingung, bersalah, mudah mengaku kalah,
+        mudah kecewa, khawatir, risau, terlibat dalam penipuan, ketagihan, dan mudah menurut kemauan hati.</string>
+    <string name="pasangan_pisces">Orang berzodiak Pisces suka pada pujian dan mengharapkan ungkapan
+        cinta dari kekasih. Justru itu, seseorang yang berkeperibadian kuat adalah pendamping yang tepat
+        untuk Pisces. Zodiak Taurus yang bersifat pendiam tetapi mantap, sesuai untuk Pisces. Sikap
+        Taurus yang dewasa, bersikap melindungi, akan mampu menenteramkan hati Pisces yang sensitif ini.
+        Selain itu, Cancer yang matang dan gemar melindungi, juga diidamkan Pisces.</string>
+    <string name="karir_pisces">Kelahiran Pisces gemar menerima tantangan dan suka dihargai. Karir yang
+        banyak tantangan juga berarti Pisces harus banyak belajar, merantau, dan menimba pengalaman
+        di mana – mana. Sikap penyayang membuat karir kelahiran Pisces sebagai dokter, perawat atau guru.
+        Walaupun karir Pisces memang menjamin pendapatan yang cukup lumayan tetapi uang bukanlah segala – galanya.
+        Pisces cenderung menjadi pemurah jika memiliki kelebihan uang untuk diri dan keluarga.</string>
+    <string name="keluarga_pisces">Dalam kehidupan keluarga dan rumah tangga kelahiran Pisces ini harus
+        melakukan lebih banyak komunikasi lisan. Pisces tidak suka dikekang, sebaliknya ingin merdeka.
+        Pertukaran ide dan pendapat yang tidak emosional dan tenang, memanfaatkan orang lain. Pisces
+        menggemari lingkungan rumah tangga yang mampu membuahkan kepentingan intelektual dan pikiran.</string>
+
+
+
+    <!--initaurus-->
+    <string name="sifat_taurus">Orang yang lahir pada tanggal antara 21 April sampai 20 Mei dikatakan
+        bernaung di bawah zodiak Taurus, yang berlambang Lembu Jantan. Dengan demikian, Taurus mengutamakan
+        kekayaan, ketinggian spiritual, kaut daya rasa, loyalitas, gemar berpelesiran, kesuburan, terlalu
+        praktis, murah rezeki dan ketabahan. Walau bagaimana pun, ada kalanya Taurus bersikap terlalu
+        kebendaan, terlalu mengekang, keras hati, suka menurut rasa hati dan buntu pikiran.</string>
+    <string name="pasangan_taurus">Cancer dan Virgo adalah pasangan yang ideal bagi Taurus. Cancer
+        memang pendamping tepat bagi Taurus. Keperibadian Cancer yang matang dan tidak berubah – ubah
+        sesuai dengan cita rasa Taurus. Lagi pula, Cancer mempunyai pandangan yang konservatif (kolot)
+        seperti Taurus. Sikap Virgo yang tenang dan agak kolot juga sesuai bagi Taurus. Sebaliknya,
+        Taurus harus berhati – hati ketika dipasangkan dengan Aries atau Gemini.</string>
+    <string name="karir_taurus">Dalam hal pekerjaan, Taurus sangat rajin, tekun, cermat, cerewet,
+        kreatif dan mementingkan ‘deadline’. Semua ini menguntungkan setiap majikan atau organisasi.
+        Namun, Taurus sangat inginkan bosnya serajin dan sekreatif seperti dirinya.</string>
+    <string name="keluarga_taurus">Rumah dan keluarga merupakan dua ‘harta’ (aset) dan tanggung jawab
+        adalah hal yang sangat penting bagi Taurus. Orang kelahiran Taurus memang sayangkan anak – anak.
+        Untuk perlengkapan rumah, orang Taurus gemar membeli furnitur dan perhiasan untuk kenyamanan.
+        Rumah bukan untuk tempat tinggal semata, tetapi tempat untuk kreativitas dan hiburan.</string>
+
+
+    <!--Iniaries-->
+    <string name="sifat_aries">Orang yang lahir pada tanggal antara 21 Maret sampai 20 April dikatakan
+        bernaung di bawah zodiak Aries, yang berlambang Biri-biri jantan. Dengan demikian, Aries seorang
+        yang berani, yakin, inisiatif, mengutamakan tindakan, ada pertahanan diri, ada rasa merintis,
+        ada daya juang, dan pencinta / memperjuangkan nasib.</string>
+    <string name="pasangan_aries">Aries punya daya pesona yang tinggi. Dalam pergaulan, Aries kelihatan
+        lincah, pintar, berkeperibadian kuat dan teman bual yang mengasyikan. Zodiak Taurus, Gemini dan
+        Aquarius adalah kekasih yang tepat bagi Aries. Taurus yang matang adalah pendamping yang tepat
+        bagi Aries. Dengan sikapnya yang tenang; Taurus yang berlambang Lembu Jantan, mampu menundukkan
+        Biri – biri Jantan (Aries) yang tidak mau duduk diam. Gemini juga cocok menjadi kekasih yang ideal
+        bagi Aries. Kebetulan Gemini dan Aries mempunyai banyak persamaan, yaitu aktif , cerdas dan bijak.</string>
+    <string name="karir_aries">Kelahiran berlambang Aries ini selalu bercita – cita merintis karir
+        sendiri dari hanya bekerja dengan majikan. Walau bagaimana pun, Aries jarang menyelesaikan
+        proyek sampai ke penghasilan yang memuaskan! Namun, pada jangka pendek, tidak ada yang mampu
+        mengatasi daya rintis Aries. Lantaran itu, Aries mampu berhasil ke puncak karir.</string>
+    <string name="keluarga_aries">Orang yang berlambang Aries adalah raja dalam rumah (bos)! Pria Aries
+        akan menyerahkan tugas hal – ihwal dalam rumah tangga kepada pihak perempuan (istrinya).
+        Sementara perempuan Aries pula akan cenderung untuk memerintah! Aries menyukai keluarga yang
+        besar dan membutuhkan peran setiap anggota keluarganya.</string>
+
+
+
+
+    <!--Inigemini-->
+    <string name="sifat_gemini">Orang yang lahir pada tanggal antara 21 Mei sampai 20 Juni dikatakan
+        bernaung di bawah zodiak Gemini, yang berlambang Saudara Kembar. Dengan demikian, Gemini terampil
+        berkomunikasi, suka bepergian, serbaguna, cerdas, ada kekuatan berbicara, mampu menulis, kedekatan
+        pada sanak saudara dan tetangga, gemar migrasi, dan bersikap terbuka. Namun, ada kalanya Gemini
+        bersikap hanya suka sekejap saja, bersikap keanak-anakan, gugup, suka bermuka dua, berbicara
+        kosong, tak lengkap dan suka berpura-pura.</string>
+    <string name="pasangan_gemini">Pendamping yang cocok untuk Gemini adalah seseorang yang cerdas dan
+        memahami cita rasa Gemini yang selalu berubah – ubah. Zodiak Aries dan Taurus adalah pasangan
+        yang tepat buat Anda. Gemini memiliki daya pesona yang dapat meluluhkan hati seseorang,
+        terutama Aries. Ketangkasan, kecerdasan dan kelincahan Gemini adalah merupakan fitur – fitur
+        yang disenangi oleh Aries. Sebaliknya, Aries sendiri juga adalah pendamping yang setia
+        dan penuh perhatian buat Gemini.</string>
+    <string name="karir_gemini">Gemini harus sadar memiliki keterampilan berkomunikasi yang tinggi.
+        Dengan keterampilan ini, Gemini berupaya memindahkan hasrat dan tujuan dalam diri ke orang
+        lain secara logis. Metode transfer ini membuat orang Gemini sangat menonjol dalam karir
+        yang melibatkan penulisan, pendidikan, perjualan dan jurnalisme. Banyak contoh yang melibatkan
+        orang Gemini, terkenal sebagai penyair, pelukis, musisi dan ahli sufi</string>
+    <string name="keluarga_gemini">Dalam urusan rumah, orang Gemini terlihat agak cerewet. Gemini
+        cenderung menginginkan semua anggota keluarga mengikuti aturan yang ditetapkan. Jika ini
+        tidak dipatuhi, Gemini mudah mengeluh dan mengkritik.</string>
+
+
+    <!--Inicancer-->
+    <string name="sifat_cancer">Orang yang lahir pada tanggal antara 21 Juni sampai 20 Juli dikatakan
+        bernaung di bawah zodiak Cancer, yang berlambang Kepiting. Dengan demikian, Cancer menyukai
+        rumah tangga, keluarga, kesehatan, makanan, ada rasa simpati, memberi perlindungan, agak
+        sensitif, punya kesabaran, kejujuran, dan kecerdasan.</string>
+    <string name="pasangan_cancer">Seseorang yang berperibadian yang matang adalah pasangan yang
+        ideal buat Cancer. Di sini, zodiak Taurus dan Virgo merupakan pendamping yang ideal bagi Cancer.
+        Taurus yang tenang adalah pasangan yang dicari oleh Cancer. Bersama – sama Taurus, Cancer akan
+        tenteram. Sikap Taurus yang matang dan berperibadian yang kuat menjadikan Cancer berasa
+        terlindungi. Virgo juga pasangan yang sesuai untuk Cancer.</string>
+    <string name="karir_cancer">Dari segi karir, orang Cancer memang membutuhkan waktu yang agak lama
+        sebelum mampu memulai bisnis (bisnis) secara sendirian. Dengan demikian, Cancer memang patuh
+        pada pemimpinnya atau majikannya di tempat kerja. Cancer gemar bekerja dengan anak – anak,
+        sehingga Cancer menjadi pendidik atau guru yang dedikasi.</string>
+    <string name="keluarga_cancer">Dalam soal rumah tangga kesuksesan Cancer lebih menyolok. Lingkungan
+        rumah dan keluarga yang diciptanya merupakan pekerjaan seni yang disorot. Cancer erat dengan
+        keluarga, sanak saudara, dan terutama ibunya. Cancer menyayangi anak – anak dan siap
+        memberikan apa yang mereka butuhkan.</string>
+
+
+    <!--IniLeo-->
+    <string name="sifat_leo">Orang yang lahir pada tanggal antara 21 Juli sampai 21 Agustus
+        dikatakanbernaung di bawah zodiak Leo, yang berlambang Singa. Anda mengutamakan rasa cinta,
+        ramah, bersifat pemurah,ada daya kepemimpinan, menonjolkan kemegahan, selalu hidup, menyoroti
+        keagungan, keberanian, kemampuan,dekat dengan anak-anak, berbakat dan suka pada hiburan. </string>
+    <string name="pasangan_leo">Leo suka bergaul sehingga tidak dapat berdampingan dengan seseorang
+        yang cemburu dan mengungkung. Dalam situasi ini, Libra, Sagitarius, dan Taurus adalah
+        pendamping ideal buat Leo. Hubungan dengan Libra dapat membahagiakan Leo. Seperti sifat
+        Leo, Libra juga membutuhkan cinta yang menyenangkan.</string>
+    <string name="karir_leo">Leo memang suka terlihat mewah dan bergaya. Leo baik dalam hal membuat
+        keputusan tetapi gemar menyerahkan hal yang lebih detail kepada bawahannya. Leo dihormati
+        rekan kerja dan bawahan, sebagian karena Leo memang memahami perasaan orang sekelilingnya.
+        Dalam setiap karir, Leo selalu berusaha mencapai posisi tertinggi meskipun harus mulai dari
+        bawah. Ini berarti, Leo seorang yang tekun bekerja.</string>
+    <string name="keluarga_leo">Dari segi eksterior, memang Leo gemar memperlakukan dan mencintai
+        orang lain. Namun, dari segi internal, hanya segelintir teman yang tahu apa sebenarnya
+        kehidupan harian Leo. Bagi orang berlambang Leo, rumah adalah ruang yang menyenangkan,
+        rekreasi, mahligai, dan kamar pribadi.</string>
+
+    <!--Inivirgo-->
+    <string name="sifat_virgo">Orang yang lahir pada tanggal antara 22 Agustus hingga 22 September
+        dikatakan bernaung di bawah zodiak Virgo, yang berlambang Seorang Gadis. Dengan demikian,
+        Virgo suka pada kerja, hasil kerja sempurna, punya pahlawan diri, suci, mengutamakan kesehatan,
+        ada kesadaran, memberikan konsentrasi berdisiplin, praktis, siap melayani dan komprehensif.</string>
+    <string name="pasangan_virgo">Zodiak Cancer dapat menjadi teman atau kekasih yang baik bagi Virgo.
+        Sementara bersama Virgo yang serius, Cancer yang cemburu; tidak akan merasa resah. Selain sifat
+        Cancer yang sulit diharapkan akan membuat Virgo menjadi ceria memikirkan sesuatu yang tersirat
+        di pikiran. Pasangan yang juga tepat bagi Virgo adalah Leo.</string>
+    <string name="karir_virgo">Virgo mencapai saat mantap dalam karir ketika dia dapat memperlihatkan
+        ilmu dan keahliannya yang dapat dimengerti oleh orang lain. Ini berarti, kelahiran Virgo perlu
+        mengembangkan bakat bicara ketika berkomunikasi dengan orang lain. Karir dan pekerjaan
+        yang sesuai adalah guru atau wartawan</string>
+    <string name="keluarga_virgo">Rumah orang berzodiak Virgo selalu rapi, bersih dan teratur. Kalau
+        berada di dalam rumah Virgo, Anda jangan coba – coba mengalihkan susunan perabotannya! Namun,
+        Virgo perlu perhatian terhadap anak – anak dan anggota – anggota keluarga yang tinggal serumah
+        dengannya, sebab tidak semua orang sama cita rasa dalam hal mengemas rumah dan menyusun furnitur.</string>
+
+
+    <!--Inilibra-->
+    <string name="sifat_libra">Orang yang lahir pada tanggal antara 23 September sampai 22 Oktober
+        dikatakan bernaung di bawah zodiak Libra, yang berlambang Alat Penimbang (Dacin). Dengan
+        demikian, orang yang berzodiak Libra biasanya berciri-ciri harmonis, seimbang, menyukai
+        pernikahan, mendapati perhubungan, mengutamakan kesetaraan, aliansi, diplomasi, berseni,
+        suka membantu, selalu dalam keadaan ceria, dapat menjadi pasangan yang ideal dan menyukai keadilan.</string>
+    <string name="pasangan_libra">Libra adalah seorang kekasih yang cerdas dan selalu menjaga perbuatan
+        dan pertuturannya agar kekasihnya tidak tersinggung. Pendamping yang ideal buat Libra adalah
+        Taurus dan Leo. Bintang Taurus yang matang dan sabar sangat diperlukan untuk mengendalikan
+        sifat Libra yang selalu dalam keraguan.</string>
+    <string name="karir_libra">Di depan umum, orang berlambang Libra ini adalah pembela. Teman atau
+        kenalannya adalah merupakan anggota keluarganya. Mungkin inilah sebabnya Libra ada potensi untuk
+        menjadi ketua atau menonjol dalam kepemimpinan politik. Dalam hal mengembangkan bakat, Libra
+        menyukai karir yang dapat menyatakan ide dan perasaannya secara bebas (terbuka).</string>
+    <string name="keluarga_libra">Karakter Libra sebetulnya menyukai rumah yang dikelola, bersih dan
+        rapi tetapi agak malas memperbarui sendiri. Ketika terjangkau, Libra rela menyewa orang lain
+        untuk membereskan rumahnya. Namun, Libra gemar berkebun dan menyukai bunga di dalam rumah.
+        Sesuai dengan sikap Libra yang menyukai harmoni dan kreativitas, dan sering Libra membiarkan
+        anak – anak melakukan apa yang diinginkan mereka.</string>
+
+
+
+    <!--iniscorpio-->
+    <string name="sifat_scorpio">Orang yang lahir pada tanggal antara 23 Oktober sampai 22 November
+        dikatakan bernaung di bawah zodiak Scorpio, yang berlambang kalajengking. Scorpio memiliki
+        kemewahan, kreatif, ada keinginan yang kuat, punya stamina, daya sensual yang tinggi dan ada
+        bakat menyembuhkan. Walau bagaimana pun, ada kalanya Scorpio mudah menaruh rasa cemburu, suka
+        menuntut bela, suka ‘membinasakan diri’, ekstrim, fanatik, tamak dan berdaya untuk menyerang.</string>
+    <string name="pasangan_scorpio">Orang yang bernaung di bawah lambang Taurus dan Cancer merupakan
+        pendamping yang sesuai untuk Scorpio. Taurus adalah pedamping yang diperlukan oleh Scorpio.
+        Dengan kesabaran yang ditunjukkan oleh Taurus, Scorpio mampu melenyapkan sikap kasarnya.
+        Dengan sikap Taurus yang matang dan mantap akan menyebabkan sifat Scorpio yang pencemburu
+        itu akan mudah merasa damai (tenang).</string>
+    <string name="karir_scorpio">Scorpio ingin menjadi pemimpin. Namun, keinginan itu selalu dirahasiakan
+        dan tidak dinyatakan secara umum, barangkali sebagaimana orang yang berlambang Leo. Cita-cita utama
+        Scorpio dalam hidup ialah supaya diangkat oleh teman-teman atau masyarakat sebagai sumber kehidupan
+        dan kebanggaan. Scorpio biasanya sukses sebagai akuntan, pengacara, manajer atau anggota bank.
+        Scorpio ingin menjadi pemimpin. Namun, keinginan itu selalu dirahasiakan dan tidak dinyatakan
+        secara umum, barangkali sebagaimana orang yang berlambang Leo. Cita-cita utama Scorpio dalam
+        hidup ialah supaya diangkat oleh teman-teman atau masyarakat sebagai sumber kehidupan dan kebanggaan.
+        Scorpio biasanya sukses sebagai akuntan, pengacara, manajer atau anggota bank.</string>
+    <string name="keluarga_scorpio">Scorpio memang senang rumah tangga dan keluarga yang harmonis.
+        Namun, cara yang dilakukan untuk menimbulkan suasana tersebut kadang kala dilakukan secara
+        paksaan yang sudah tentunya menyinggung perasaan setiap anggota keluarga. Dalam hubungan ini,
+        tampaknya Scorpio perlu membangun sikap mengutamakan kehidupan berkeluarga dan rumah tangga.</string>
+
+
+
+    <!--Inisagitarius-->
+    <string name="sifat_sagitarius">Orang yang lahir pada tanggal antara 23 November sampai 20 Desember
+        dikatakan bernaung di bawah zodiak Sagitarius, yang berlambang Pemanah. Sagitarius suka dan minat
+        belajar, bersikap optimis, pemahaman diri, bercita-cita tinggi, memiliki hati nurani, berpegang
+        pada agama, psikologis, suka pada kesenangan, bijaksana, selalu ada keberuntungan,
+        gemar eksplorasi dan punya banyak impian.</string>
+    <string name="pasangan_sagitarius">Sagitarius seorang kekasih yang setia. Pasangan yang dilakukan
+        adalah bukan dari jenis yang cemburu. Jadi, pasangan yang cocok dengan Sagitarius adalah
+        Aries dan Gemini. Aries sesuai dengan Sagitarius karena Aries juga menyukai pada kebebasan.
+        Sifat Aries yang periang dan cerdas juga sangat menyenangi Sagitarius. Begitu juga dengan
+        hubungan Sagitarius dengan Gemini karena Gemini menyukai kebebasan dan periang yang mana
+        sudah tentu sesuai dengan Sagitarius.</string>
+    <string name="karir_sagitarius">Sagitarius agak memilih pekerjaan. Sagitarius seorang pemikir
+        yang memiliki impian yang besar. Sagitarius menginginkan uang, nama, glamour, prestise dan
+        pengakuan masyarakat. Namun, karir yang cocok bagi Sagitarius adalah tugas dan tanggung jawab
+        yang melibatkan layanan amal kepada orang lain seperti perawat, dokter, agen perjalanan,
+        pejabat keuangan atau pejabat di perusahaan menjual obat-obatan.</string>
+    <string name="keluarga_sagitarius">Sagitarius menyukai keluarga dan rumah tangga yang harmonis.
+        Masalah yang dihadapi Sagitarius segera dapat diatasi dengan bantuan anggota keluarga.
+        Sagitarius suka memberi kebebasan kepada anak-anak dan remaja. Namun, ketika berhadapan
+        dengan anak-anak sendiri, Sagitarius cukup mengungkung mereka.</string>
+
+
+
+
+
+
+
+</resources>
